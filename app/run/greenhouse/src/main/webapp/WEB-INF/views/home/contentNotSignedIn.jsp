@@ -4,7 +4,7 @@
 <div id="intro">
 	<h2>Welcome to the Continuous Integration in the Cloud</h2>
 	<p>
-		Hope you will find it useful.
+		Xiang da shen diao zha tian.
 	</p>
 	<p>
 		We help you connect with fellow developers and take advantage of everything the Spring community has to offer.	
