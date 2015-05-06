@@ -4,7 +4,7 @@
 <div id="intro">
 	<h2>Welcome to the Continuous Integration in the Cloud Final Demo!</h2>
 	<p>
-		We make it fun to be an application developer.
+		Hope you will find it useful.
 	</p>
 	<p>
 		We help you connect with fellow developers and take advantage of everything the Spring community has to offer.	
